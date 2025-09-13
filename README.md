@@ -45,14 +45,16 @@ I enjoy building **responsive web applications**, solving problems, and continuo
 
 ---
 
-## Featured Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Authentication System](https://github.com/PossiblyBread/authentication-system)** | Secure user registration, login, email verification, and password reset | PHP, MySQL |
-| **[Payroll System](https://github.com/PossiblyBread/payroll-system)** | Automatic payroll calculation with PDF payslip generation | PHP, MySQL |
-| **[Ledger System](https://github.com/PossiblyBread/ledger-system)** | Financial record-keeping tool with detailed transaction history | PHP, MySQL |
-| **[Inventory Management System](https://github.com/PossiblyBread/inventory-management)** | Track stock, movements, and generate reports | PHP, MySQL, React |
-| **[Ticketing System](https://github.com/PossiblyBread/ticketing-system)** | Support ticket platform with status tracking and department assignment | PHP, MySQL |
+## Portfolio
+Here are some examples of my work and live demos:  
+
+- **[Authentication System Demo](#)** – Secure user registration, login, email verification.  
+- **[Payroll System Demo](#)** – Automated employee payroll calculations with printable payslips.  
+- **[Ledger System Demo](#)** – Financial record-keeping tool with transaction history.  
+- **[Inventory Management Demo](#)** – Track stock, movements, and reports online.  
+- **[Ticketing System Demo](#)** – Web-based support ticket platform.  
+
+> Replace `#` with your **live demo links** once available.
 
 ---
 
@@ -63,4 +65,4 @@ I enjoy building **responsive web applications**, solving problems, and continuo
 
 ---
 
-> "Continuous learning and problem-solving are my keys to becoming a great developer."  
+> "Continuous learning and problem-solving are my keys to becoming a great developer."
