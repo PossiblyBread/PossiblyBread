@@ -21,8 +21,6 @@ I enjoy building **responsive web applications**, solving problems, and continuo
 [![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=PossiblyBread&show_icons=true&theme=radical)](https://github.com/PossiblyBread)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PossiblyBread&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PossiblyBread&theme=radical)
-
 ---
 
 ## Skills
