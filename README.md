@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I am a **Junior Full Stack Developer** from San Pablo City, Laguna, Philippines.  
+I am a **Junior Full Stack Developer** from the Philippines.  
 I enjoy building **responsive web applications**, solving problems, and continuously learning modern web technologies.  
 
 - 💻 Skilled in **PHP, MySQL, React, HTML, CSS, JavaScript**  
