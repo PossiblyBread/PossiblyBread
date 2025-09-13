@@ -1,4 +1,4 @@
-# Hi there, I'm Adrian Adona 👋
+# Hi there, I'm Adrian 👋
 
 ### Junior Full Stack Developer | PHP | MySQL | React | Cloud Deployment
 
