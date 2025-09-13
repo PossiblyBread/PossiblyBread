@@ -54,7 +54,3 @@ Check out my projects in my portfolio:
 ## Contact Me
 - 📫 Email: link.adrianadona@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)  
-
----
-
-> "Continuous learning and problem-solving are my keys to becoming a great developer."
