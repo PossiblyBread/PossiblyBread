@@ -46,7 +46,7 @@ I enjoy building **responsive web applications**, solving problems, and continuo
 ---
 
 ## Portfolio
-Check out my live projects and demos in my portfolio:  
+Check out my projects in my portfolio:  
 🌐 [**Visit My Portfolio**](https://possiblybread.github.io/portfolio/)
 
 ---
