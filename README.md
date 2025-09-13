@@ -46,22 +46,14 @@ I enjoy building **responsive web applications**, solving problems, and continuo
 ---
 
 ## Portfolio
-Here are some examples of my work and live demos:  
-
-- **[Authentication System Demo](#)** – Secure user registration, login, email verification.  
-- **[Payroll System Demo](#)** – Automated employee payroll calculations with printable payslips.  
-- **[Ledger System Demo](#)** – Financial record-keeping tool with transaction history.  
-- **[Inventory Management Demo](#)** – Track stock, movements, and reports online.  
-- **[Ticketing System Demo](#)** – Web-based support ticket platform.  
-
-> Replace `#` with your **live demo links** once available.
+Check out my live projects and demos in my portfolio:  
+🌐 [**Visit My Portfolio**](https://possiblybread.github.io/portfolio/)
 
 ---
 
 ## Contact Me
 - 📫 Email: link.adrianadona@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)  
-- 🌍 Location: San Pablo City, Laguna, Philippines
 
 ---
 
