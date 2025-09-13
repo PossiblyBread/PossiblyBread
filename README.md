@@ -45,7 +45,6 @@ Here are some of my notable projects:
 ## Contact Me
 - 📫 Email: link.adrianadona@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)  
-- 🌍 Location: San Pablo City, Laguna, Philippines
 
 ---
 
