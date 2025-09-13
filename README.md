@@ -1,5 +1,7 @@
 # Hi there, I'm Adrian Adona 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PossiblyBread)](https://github.com/PossiblyBread/github-readme-stats)
+
 ### Junior Full Stack Developer | PHP | MySQL | React | Cloud Deployment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adrian%20Adona-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adrian-adona)
