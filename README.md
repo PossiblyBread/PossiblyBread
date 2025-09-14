@@ -88,4 +88,7 @@ Check out my projects in my portfolio:
 
 ---
 
-<img src="https://raw.githubusercontent.com/PossiblyBread/PossiblyBread/main/assets/cirno-funky.gif" width="250" alt="Cirno Funky GIF" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PossiblyBread/PossiblyBread/main/assets/cirno-funky.gif" width="250" alt="Cirno Funky GIF" />
+</p>
+
