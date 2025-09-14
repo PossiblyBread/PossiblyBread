@@ -86,4 +86,3 @@ Check out my projects in my portfolio:
 - 📧 Email: **link.adrianadona@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)
 
----
