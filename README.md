@@ -87,7 +87,3 @@ Check out my projects in my portfolio:
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)
 
 ---
-
-<p align="center">
-  <img src="assets/cirno-brick.gif" width="300" alt="Cirno Brick GIF" />
-</p>
