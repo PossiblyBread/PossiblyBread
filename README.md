@@ -86,3 +86,6 @@ Check out my projects in my portfolio:
 - 📧 Email: **link.adrianadona@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)
 
+---
+
+<img src="https://raw.githubusercontent.com/PossiblyBread/PossiblyBread/main/assets/cirno-funky.gif" width="250" alt="Cirno Funky GIF" />
