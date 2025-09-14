@@ -87,7 +87,12 @@ Check out my projects in my portfolio:
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)
 
 ---
-
+             _                 __             _                  
+ _____   ___| |_ __ _ _   _   / _|_   _ _ __ | | ___   _   _____ 
+|_____| / __| __/ _` | | | | | |_| | | | '_ \| |/ / | | | |_____|
+|_____| \__ \ || (_| | |_| | |  _| |_| | | | |   <| |_| | |_____|
+        |___/\__\__,_|\__, | |_|  \__,_|_| |_|_|\_\\__, |        
+                      |___/                        |___/         
 <p align="center">
   <img src="https://raw.githubusercontent.com/PossiblyBread/PossiblyBread/main/assets/cirno-funky.gif" width="250" alt="Cirno Funky GIF" />
 </p>
