@@ -77,5 +77,5 @@ Check out my projects in my portfolio:
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/V3q9n_Wh1msAAAAC/cirno-wow.gif" alt="Cirno Wow GIF" width="300" />
+  <img src="assets/cirno-brick.gif" width="300" alt="Cirno Brick GIF" />
 </p>
