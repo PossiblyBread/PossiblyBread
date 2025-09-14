@@ -18,7 +18,7 @@
 <tr>
   <td width="60%" valign="top">
   
-  I am a **Junior Full Stack Developer** from the Philippines 🇵🇭.  
+  I am a **Junior Full Stack Developer**.  
   I enjoy building **responsive web applications**, solving problems, and learning new technologies.  
   
   - 💻 Skilled in **PHP, MySQL, React, HTML, CSS, JavaScript**  
