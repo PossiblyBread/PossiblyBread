@@ -13,24 +13,26 @@
 ---
 
 ## 🚀 About Me
-<table>
-  <tr>
-    <td width="60%">
-      I am a **Junior Full Stack Developer** from the Philippines 🇵🇭.  
-      I enjoy building **responsive web applications**, solving problems, and learning new technologies.  
 
-      - 💻 Skilled in **PHP, MySQL, React, HTML, CSS, JavaScript**  
-      - 🌐 Experience with **responsive design, cloud deployment, Git & GitHub**  
-      - ⚡ Passionate about **UI/UX, problem-solving, and Agile development**
-    </td>
-    <td width="40%" align="center">
-      <img src="assets/cirno-brick.gif" width="250" alt="Cirno Brick GIF" />
-    </td>
-  </tr>
+<table>
+<tr>
+  <td width="60%" valign="top">
+  
+  I am a **Junior Full Stack Developer** from the Philippines 🇵🇭.  
+  I enjoy building **responsive web applications**, solving problems, and learning new technologies.  
+  
+  - 💻 Skilled in **PHP, MySQL, React, HTML, CSS, JavaScript**  
+  - 🌐 Experience with **responsive design, cloud deployment, Git & GitHub**  
+  - ⚡ Passionate about **UI/UX, problem-solving, and Agile development**
+  
+  </td>
+  <td width="40%" valign="top" align="center">
+    <img src="https://raw.githubusercontent.com/PossiblyBread/PossiblyBread/main/assets/cirno-brick.gif" width="250" alt="Cirno Brick GIF" />
+  </td>
+</tr>
 </table>
 
 ---
-
 
 ## 📊 GitHub Stats
 <p align="center">
