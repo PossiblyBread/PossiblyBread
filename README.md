@@ -75,3 +75,7 @@ Check out my projects in my portfolio:
 - 💼 LinkedIn: [linkedin.com/in/adrian-adona](https://linkedin.com/in/adrian-adona)
 
 ---
+
+<p align="center">
+  <img src="https://media.tenor.com/V3q9n_Wh1msAAAAC/cirno-wow.gif" alt="Cirno Wow GIF" width="300" />
+</p>
