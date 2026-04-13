@@ -2,9 +2,6 @@
 <h3 align="center">Junior Full Stack Developer | PHP | MySQL | React | Cloud Deployment</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/adrian-adona">
-    <img src="https://img.shields.io/badge/LinkedIn-Adrian%20Adona-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:link.adrianadona@gmail.com">
     <img src="https://img.shields.io/badge/Email-link.adrianadona@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
