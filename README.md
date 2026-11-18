@@ -1,12 +1,6 @@
 <h1 align="center">Hi there, I'm Adrian ദ്ദിᗜˬᗜ✧ </h1>
 <h3 align="center">Junior Full Stack Developer | PHP | MySQL | React | Cloud Deployment</h3>
 
-<p align="center">
-  <a href="mailto:link.adrianadona@gmail.com">
-    <img src="https://img.shields.io/badge/Email-link.adrianadona@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
